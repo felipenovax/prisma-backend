@@ -1,0 +1,3 @@
+module.exports = {
+    authSecret: 'Pa$$w0rd'
+}
